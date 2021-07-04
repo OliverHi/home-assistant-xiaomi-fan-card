@@ -19,6 +19,7 @@ You can also add the same optional configurations as in the linked xiaomi vacuum
         image: /local/img/xiaomi_fan2.jpg
 ```
 ![fan-card-1](https://user-images.githubusercontent.com/9283757/124400049-fa6b6900-dd1f-11eb-9f31-31dd6d34704a.PNG)
+
 This image has to be saved in the `<config>/www/img` folder of your Home Assistant installation.
 
 The card shows the power state (on/off), the oscillation state (moving or not), fan speed (level 1 to 3), current mode and the minutes left on the shutdown timer.
