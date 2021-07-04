@@ -1,0 +1,5 @@
+{
+  "name": "Home Assistant Xiaomi Fan Card",
+  "filename": "xiaomi-fan-card.js",
+  "render_readme": true
+}
